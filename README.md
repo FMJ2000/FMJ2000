@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FMJ2000
-- 👀 I’m interested in web application development
-- 🌱 I’m currently learning C for embedded programming, as well as NodeJS with Express and React with Redux for web development.
-- 💞️ I’m looking to collaborate on open-source web-based applications
+- 👀 I’m interested in embedded, full-stack and automation development
+- 🌱 I'm currently learning Ansible for security automation, and Rust for system programming.
+- 💞️ I’m looking to collaborate on open-source applications
 - 📫 Reach me by email: martin.b.hanekom@gmail.com
 
 <!---
